@@ -18,7 +18,7 @@ Este proyecto implementa una simulación evolutiva de depredadores y presas usan
 Cada agente (presa o depredador) usa una red neuronal para decidir dirección, aceleración e intención. Al final de cada episodio, los puntajes determinan un campeón cuyo genoma se clona para formar la siguiente generación, con mutación opcional.
 
 <p align="center">
-  <img src="assets/tu_video.gif" width="800">
+  <img src="assets/Modelo.gif" width="800">
 </p>
 
 ---
